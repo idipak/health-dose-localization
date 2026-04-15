@@ -1,0 +1,28 @@
+{
+  "app_title": "Health Dose",
+  "hello_world": "Hello World!",
+  "onboarding": {
+    "title": "Welcome to Health Dose",
+    "description": "Never forget your medications again."
+  },
+  "drawer": {
+    "notification_settings": "Notification Settings",
+    "notification_settings_desc": "Optimize for reliable reminders",
+    "share_app": "Share app",
+    "backup": "Backup",
+    "test_notification": "Test Notification",
+    "language": "Language",
+    "language_desc": "Change app language"
+  },
+  "permissions": {
+    "notification_required": "Notification Permission Required",
+    "notification_desc": "To receive medication reminders, you need to enable notifications. Would you like to enable notifications now?",
+    "later": "Later",
+    "enable": "Enable"
+  },
+  "language_sheet": {
+    "title": "Select Language",
+    "english": "English",
+    "hindi": "Hindi (हिंदी)"
+  }
+}

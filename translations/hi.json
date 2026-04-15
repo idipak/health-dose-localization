@@ -1,0 +1,28 @@
+{
+  "app_title": "हेल्थ डोज़",
+  "hello_world": "नमस्ते दुनिया!",
+  "onboarding": {
+    "title": "हेल्थ डोज़ में आपका स्वागत है",
+    "description": "अपनी दवाएं फिर कभी न भूलें।"
+  },
+  "drawer": {
+    "notification_settings": "अधिसूचना सेटिंग्स",
+    "notification_settings_desc": "विश्वसनीय अनुस्मारकों के लिए अनुकूलित करें",
+    "share_app": "ऐप साझा करें",
+    "backup": "बैकअप",
+    "test_notification": "अधिसूचना का परीक्षण करें",
+    "language": "भाषा",
+    "language_desc": "ऐप की भाषा बदलें"
+  },
+  "permissions": {
+    "notification_required": "अधिसूचना अनुमति आवश्यक",
+    "notification_desc": "दवा अनुस्मारक प्राप्त करने के लिए, आपको सूचनाएं सक्षम करने की आवश्यकता है। क्या आप अभी सूचनाएं सक्षम करना चाहेंगे?",
+    "later": "बाद में",
+    "enable": "सक्षम करें"
+  },
+  "language_sheet": {
+    "title": "भाषा चुनें",
+    "english": "अंग्रेज़ी (English)",
+    "hindi": "हिन्दी"
+  }
+}
