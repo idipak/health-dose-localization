@@ -110,7 +110,11 @@
     "no_schedule_desc": "If you have any medicines scheduled for selected day, they will appear here",
     "confirm_future_dose_title": "Confirm",
     "confirm_future_dose_message": "Taking future dose can be harmful. Do you really want to take this dose now?",
-    "medicines_count": "{} medicines",
+    "medicines_count": {
+      "zero": "No medicines",
+      "one": "{} medicine",
+      "other": "{} medicines"
+    },
     "schedule_tab": "Schedule",
     "medicines_tab": "Medicines",
     "history_tab": "History"
