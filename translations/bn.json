@@ -31,7 +31,9 @@
     "yesterday": "গতকাল",
     "go_to_home": "হোমে যান",
     "ok": "ঠিক আছে",
-    "error_loading": "{} লোড করতে এরর: {}"
+    "error_loading": "{} লোড করতে এরর: {}",
+    "taken": "খাওয়া হয়েছে",
+    "missed": "বাদ পড়েছে"
   },
   "drawer": {
     "notification_settings": "নোটিফিকেশন সেটিংস",
@@ -49,9 +51,7 @@
     "enable": "চালু করুন"
   },
   "language_sheet": {
-    "title": "ভাষা বেছে নিন",
-    "english": "English",
-    "hindi": "Hindi (हिंदी)"
+    "title": "ভাষা বেছে নিন"
   },
   "add_medicine": {
     "title": "ওষুধ যোগ করুন",
@@ -88,7 +88,8 @@
     "start_date": "শুরুর তারিখ",
     "date_label": "তারিখ",
     "confirm_medicine": "ওষুধ নিশ্চিত করুন",
-    "not_specified": "দেওয়া হয়নি"
+    "not_specified": "দেওয়া হয়নি",
+    "medicine_name_hint": "যেমন: প্যারাসিটামল"
   },
   "schedule_detail": {
     "title": "ওষুধের রুটিন",
@@ -117,7 +118,11 @@
     },
     "schedule_tab": "রুটিন",
     "medicines_tab": "ওষুধ",
-    "history_tab": "হিস্ট্রি"
+    "history_tab": "হিস্ট্রি",
+    "take_dose": "'খাওয়া হয়েছে' মার্ক করুন",
+    "skip_dose": "'বাদ দেওয়া হয়েছে' মার্ক করুন",
+    "dose_taken_announced": "{}, 'খাওয়া হয়েছে' মার্ক করা হয়েছে",
+    "dose_skipped_announced": "{}, 'বাদ দেওয়া হয়েছে' মার্ক করা হয়েছে"
   },
   "med_list": {
     "filter_hint": "সময় অনুযায়ী ফিল্টার করুন",
