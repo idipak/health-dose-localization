@@ -31,7 +31,9 @@
     "yesterday": "कल",
     "go_to_home": "होम पर जाएं",
     "ok": "ठीक है",
-    "error_loading": "{} लोड करने में एरर: {}"
+    "error_loading": "{} लोड करने में एरर: {}",
+    "taken": "ले ली",
+    "missed": "छूट गई"
   },
   "drawer": {
     "notification_settings": "नोटिफिकेशन सेटिंग्स",
@@ -49,9 +51,7 @@
     "enable": "चालू करें"
   },
   "language_sheet": {
-    "title": "भाषा चुनें",
-    "english": "English",
-    "hindi": "Hindi (हिंदी)"
+    "title": "भाषा चुनें"
   },
   "add_medicine": {
     "title": "दवा जोड़ें",
@@ -88,7 +88,8 @@
     "start_date": "शुरू करने की तारीख",
     "date_label": "तारीख",
     "confirm_medicine": "दवा पक्की करें",
-    "not_specified": "नहीं बताया गया"
+    "not_specified": "नहीं बताया गया",
+    "medicine_name_hint": "जैसे: पैरासिटामोल"
   },
   "schedule_detail": {
     "title": "दवा का शेड्युल",
@@ -117,7 +118,11 @@
     },
     "schedule_tab": "शेड्युल",
     "medicines_tab": "दवाएं",
-    "history_tab": "हिस्ट्री"
+    "history_tab": "हिस्ट्री",
+    "take_dose": "'ले ली' मार्क करें",
+    "skip_dose": "'छोड़ दी' मार्क करें",
+    "dose_taken_announced": "{}, 'ले ली' मार्क किया गया",
+    "dose_skipped_announced": "{}, 'छोड़ दी' मार्क किया गया"
   },
   "med_list": {
     "filter_hint": "समय के हिसाब से छाँटें",

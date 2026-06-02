@@ -31,7 +31,9 @@
     "yesterday": "हिजो",
     "go_to_home": "होममा जानुहोस्",
     "ok": "ठीक छ",
-    "error_loading": "{} लोड गर्दा एरर: {}"
+    "error_loading": "{} लोड गर्दा एरर: {}",
+    "taken": "खाइसकेको",
+    "missed": "छुटेको"
   },
   "drawer": {
     "notification_settings": "नोटिफिकेसन सेटिङहरू",
@@ -49,9 +51,7 @@
     "enable": "खोल्नुहोस्"
   },
   "language_sheet": {
-    "title": "भाषा छान्नुहोस्",
-    "english": "English",
-    "hindi": "Hindi (हिंदी)"
+    "title": "भाषा छान्नुहोस्"
   },
   "add_medicine": {
     "title": "औषधि थप्नुहोस्",
@@ -88,7 +88,8 @@
     "start_date": "सुरु गर्ने मिति",
     "date_label": "मिति",
     "confirm_medicine": "औषधि पक्का गर्नुहोस्",
-    "not_specified": "तोकिएको छैन"
+    "not_specified": "तोकिएको छैन",
+    "medicine_name_hint": "जस्तै: प्यारासिटामोल"
   },
   "schedule_detail": {
     "title": "औषधिको तालिका",
@@ -117,7 +118,11 @@
     },
     "schedule_tab": "तालिका",
     "medicines_tab": "औषधिहरू",
-    "history_tab": "हिस्ट्री"
+    "history_tab": "हिस्ट्री",
+    "take_dose": "'खाइयो' मार्क गर्नुहोस्",
+    "skip_dose": "'छोडियो' मार्क गर्नुहोस्",
+    "dose_taken_announced": "{}, 'खाइयो' मार्क गरियो",
+    "dose_skipped_announced": "{}, 'छोडियो' मार्क गरियो"
   },
   "med_list": {
     "filter_hint": "समय अनुसार छान्नुहोस्",
