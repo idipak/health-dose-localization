@@ -31,7 +31,9 @@
     "yesterday": "Yesterday",
     "go_to_home": "Go to home",
     "ok": "OK",
-    "error_loading": "Error loading {}: {}"
+    "error_loading": "Error loading {}: {}",
+    "taken": "Taken",
+    "missed": "Missed"
   },
   "drawer": {
     "notification_settings": "Notification Settings",
@@ -49,14 +51,13 @@
     "enable": "Enable"
   },
   "language_sheet": {
-    "title": "Select Language",
-    "english": "English",
-    "hindi": "Hindi (हिंदी)"
+    "title": "Select Language"
   },
   "add_medicine": {
     "title": "Add Medicine",
     "medicine_name": "Medicine name",
     "medicine_name_empty": "Medicine name cannot be empty",
+    "medicine_name_hint": "e.g. Paracetamol",
     "form_label": "Form: {}",
     "what_form": "What form is the medicine",
     "how_often": "How often do you take it?",
@@ -117,7 +118,11 @@
     },
     "schedule_tab": "Schedule",
     "medicines_tab": "Medicines",
-    "history_tab": "History"
+    "history_tab": "History",
+    "take_dose": "Mark as taken",
+    "skip_dose": "Mark as skipped",
+    "dose_taken_announced": "{} marked as taken",
+    "dose_skipped_announced": "{} marked as skipped"
   },
   "med_list": {
     "filter_hint": "Filter by frequency",
