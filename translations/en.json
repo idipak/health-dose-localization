@@ -122,7 +122,9 @@
     "take_dose": "Mark as taken",
     "skip_dose": "Mark as skipped",
     "dose_taken_announced": "{} marked as taken",
-    "dose_skipped_announced": "{} marked as skipped"
+    "dose_skipped_announced": "{} marked as skipped",
+    "showcase_add_medicine_title": "Add Medicine",
+    "showcase_add_medicine_desc": "Tap here to add your first medicine and set up a schedule."
   },
   "med_list": {
     "filter_hint": "Filter by frequency",
