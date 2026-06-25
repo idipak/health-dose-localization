@@ -42,7 +42,9 @@
     "backup": "ব্যাকআপ",
     "test_notification": "নোটিফিকেশন টেস্ট করুন",
     "language": "ভাষা",
-    "language_desc": "অ্যাপের ভাষা পরিবর্তন করুন"
+    "language_desc": "অ্যাপের ভাষা পরিবর্তন করুন",
+    "support": "সাপোর্ট",
+    "support_desc": "সাহায্যের জন্য আমাদের সাথে যোগাযোগ করুন"
   },
   "permissions": {
     "notification_required": "নোটিফিকেশন পারমিশন প্রয়োজন",
@@ -122,7 +124,9 @@
     "take_dose": "'খাওয়া হয়েছে' মার্ক করুন",
     "skip_dose": "'বাদ দেওয়া হয়েছে' মার্ক করুন",
     "dose_taken_announced": "{}, 'খাওয়া হয়েছে' মার্ক করা হয়েছে",
-    "dose_skipped_announced": "{}, 'বাদ দেওয়া হয়েছে' মার্ক করা হয়েছে"
+    "dose_skipped_announced": "{}, 'বাদ দেওয়া হয়েছে' মার্ক করা হয়েছে",
+    "showcase_add_medicine_title": "ওষুধ অ্যাড করুন",
+    "showcase_add_medicine_desc": "আপনার প্রথম ওষুধ অ্যাড করতে এবং শিডিউল সেট করতে এখানে ট্যাপ করুন।"
   },
   "med_list": {
     "filter_hint": "সময় অনুযায়ী ফিল্টার করুন",

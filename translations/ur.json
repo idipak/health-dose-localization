@@ -42,7 +42,9 @@
     "backup": "بیک اپ",
     "test_notification": "نوٹیفیکیشن ٹیسٹ کریں",
     "language": "زبان",
-    "language_desc": "ایپ کی زبان بدلیں"
+    "language_desc": "ایپ کی زبان بدلیں",
+    "support": "سپورٹ",
+    "support_desc": "مدد کے لیے ہم سے رابطہ کریں"
   },
   "permissions": {
     "notification_required": "نوٹیفیکیشن کی اجازت چاہیے",
@@ -122,7 +124,9 @@
     "take_dose": "لے لی مارک کریں",
     "skip_dose": "‘چھوٹ گئی’ مارک کریں",
     "dose_taken_announced": "{}, لے لی مارک کیا گیا",
-    "dose_skipped_announced": "{}, ‘چھوٹ گئی’ مارک کیا گیا"
+    "dose_skipped_announced": "{}, ‘چھوٹ گئی’ مارک کیا گیا",
+    "showcase_add_medicine_title": "دوا ایڈ کریں",
+    "showcase_add_medicine_desc": "اپنی پہلی دوا ایڈ کرنے اور شیڈول سیٹ کرنے کے لیے یہاں ٹیپ کریں۔"
   },
   "med_list": {
     "filter_hint": "وقت کے مطابق فلٹر کریں",

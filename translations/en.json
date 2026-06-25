@@ -42,7 +42,9 @@
     "backup": "Backup",
     "test_notification": "Test Notification",
     "language": "Language",
-    "language_desc": "Change app language"
+    "language_desc": "Change app language",
+    "support": "Support",
+    "support_desc": "Contact us for help"
   },
   "permissions": {
     "notification_required": "Notification Permission Required",
