@@ -26,7 +26,7 @@
     "error_prefix": "Error: {}",
     "pending": "Pending",
     "active": "Active",
-    "inactive": "Inactive",
+    "paused": "Paused",
     "today": "Today",
     "yesterday": "Yesterday",
     "go_to_home": "Go to home",
@@ -197,7 +197,12 @@
     "task_killer_desc": "Apps like task killers and some antivirus apps may prevent HealthDose from sending notifications. Please add HealthDose to their whitelist or exclusion list.",
     "save_settings": "Save Settings",
     "advanced_dialog_title": "Advanced Battery Settings",
-    "advanced_dialog_content": "Some Android devices have additional battery optimization settings that may prevent notifications from being delivered on time.\n\nTo ensure reliable notifications:\n1. Go to Settings > Apps > HealthDose\n2. Tap on \"Battery\"\n3. Select \"Unrestricted\" or \"Don't optimize\"\n\nThe exact steps may vary depending on your device manufacturer."
+    "advanced_dialog_content": "Some Android devices have additional battery optimization settings that may prevent notifications from being delivered on time.\n\nTo ensure reliable notifications:\n1. Go to Settings > Apps > HealthDose\n2. Tap on \"Battery\"\n3. Select \"Unrestricted\" or \"Don't optimize\"\n\nThe exact steps may vary depending on your device manufacturer.",
+    "snooze_sound_title": "Snooze Reminder Sound",
+    "snooze_sound_desc": "Choose how you want to be notified when a reminder is snoozed.",
+    "snooze_sound_same": "Same as reminder",
+    "snooze_sound_gentle": "Gentle (Vibration only)",
+    "snooze_sound_silent": "Silent"
   },
   "language_sheet_bottom": {
     "no_languages": "No languages available"
